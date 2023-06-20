@@ -3,7 +3,7 @@ This readme file provides an overview of a Music Player project developed using 
 The music-player is able to play/pause a selected song from your selected directory and just like a normal music player , it can also navigate to previous/next song,
 resume a song and remove the unwanted song from the list.
 
-#Prerequisites 
+## Prerequisites 
 Before running the music-player program , make sure that you have the Python 3.x () installed in your system.
 
 ## Getting Started
