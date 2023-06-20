@@ -4,7 +4,7 @@ The music-player is able to play/pause a selected song from your selected direct
 resume a song and remove the unwanted song from the list.
 
 ## Prerequisites 
-Before running the music-player program , make sure that you have the Python 3.x () installed in your system.
+Before running the music-player program , make sure that you have the Python 3.x (https://www.python.org/downloads/) installed in your system.
 
 ## Getting Started
 To set up and run the music-player, follow the below steps:
